@@ -1,5 +1,5 @@
 # obfuscation_benchmark_code_artifacts
-Welcome to this repository that contains artifacts related to two published papers:
+Welcome to this placeholder repository that contains artifacts related to two published papers:
 ```
 Identifying Obfuscated Code through Graph-Based Semantic Analysis of Binary Code, by Roxane Cohen; Robin David; Florian Yger; Fabrice Rossi, ComplexNetworks 2024.
 ```
@@ -9,4 +9,4 @@ Experimental Study of Binary Diffing Resilience on Obfuscated Programs, by Roxan
 ```
 
 > [!WARNING]
-> This repository is related to recently accepted papers. It is currently subject to changes. 
+> This repository is related to recently accepted papers. It is currently subject to changes and will be completed at a later date
